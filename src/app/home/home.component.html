@@ -1,0 +1,24 @@
+<div class="container">
+    <app-menu-bar [sectionName] = "homeData"></app-menu-bar>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-12 mt-3" *ngFor="let data of homeData">
+            <div class="card">
+                <div class="card-horizontal row">
+                    <div class="img-square-wrapper col-lg-5 col-md-5 col-sm-12" *ngFor="let image of data.multimedia | slice:0:1;">
+                        <img class="" [src]="image.url" alt="Card image cap">
+                    </div>
+                    <div class="card-body col-lg-7 col-md-7 col-sm-12">
+                        <h4 class="card-title">{{data.section}}</h4>
+                        <p class="card-text">{{data.created_date | date: 'MMM dd' }}</p>
+                        <p class="card-text">{{data.abstract}}</p>
+                        <a herf="#" class="Continue" (click)="continueBlock(data.section)">Continue Reading...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

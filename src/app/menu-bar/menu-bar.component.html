@@ -1,0 +1,18 @@
+<!-- <nav class="navbar navbar1 navbar-expand-lg navbar-dark" style="margin-top:10px;">
+            <div class="container px-lg-5 subMenu">
+                <div class="collapse navbar-collapse">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0" *ngFor= "let x of sectionName | filterUnique">
+                        <li class="nav-item"><a class="nav-link1 nav-link" [routerLink]="['/dashboard/news',x]">{{x}}</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav> -->
+<div class="container">
+    <div class="row">
+        <div class="col" *ngFor="let x of sectionName | filterUnique"
+            style="text-align:center;padding-left: 15px;">
+            <li class=""><a class="nav-link1" [routerLink]="['/dashboard/news',x]">{{x}}</a></li>
+        </div>
+    </div>
+    <hr>
+</div>

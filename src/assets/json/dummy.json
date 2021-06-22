@@ -1,0 +1,2031 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section": "Travel",
+    "last_updated": "2021-06-18T07:37:47-04:00",
+    "num_results": 25,
+    "results": [
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "Canadian Couple Who Flew to Indigenous Town for Vaccine Plead Guilty",
+            "abstract": "The couple, a gambling executive and an actress, were fined $2,300 for violating coronavirus restrictions but won’t face jail time, court records show.",
+            "url": "https://www.nytimes.com/2021/06/17/world/americas/vancouver-couple-vaccine-guilty.html",
+            "uri": "nyt://article/30139b93-60bf-517a-a48c-49475d6d6910",
+            "byline": "By Derrick Bryson Taylor",
+            "item_type": "Article",
+            "updated_date": "2021-06-17T16:56:00-04:00",
+            "created_date": "2021-06-17T15:04:34-04:00",
+            "published_date": "2021-06-17T15:04:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Quarantines",
+                "Fines (Penalties)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Baker, Rodney (Casino Executive)",
+                "Baker, Ekaterina"
+            ],
+            "geo_facet": [
+                "Beaver Creek (Yukon Territory)",
+                "Canada",
+                "Yukon Territory"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/multimedia/17xp-vaccine-image/17xp-vaccine-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 379,
+                    "width": 720,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rodney and Ekaterina Baker traveled 1,200 miles to jump the vaccine line.",
+                    "copyright": "Ekaterina Baker via Facebook"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/multimedia/17xp-vaccine-image/17xp-vaccine-image-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rodney and Ekaterina Baker traveled 1,200 miles to jump the vaccine line.",
+                    "copyright": "Ekaterina Baker via Facebook"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/multimedia/17xp-vaccine-image/17xp-vaccine-image-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rodney and Ekaterina Baker traveled 1,200 miles to jump the vaccine line.",
+                    "copyright": "Ekaterina Baker via Facebook"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/multimedia/17xp-vaccine-image/17xp-vaccine-image-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rodney and Ekaterina Baker traveled 1,200 miles to jump the vaccine line.",
+                    "copyright": "Ekaterina Baker via Facebook"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/multimedia/17xp-vaccine-image/17xp-vaccine-image-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 100,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rodney and Ekaterina Baker traveled 1,200 miles to jump the vaccine line.",
+                    "copyright": "Ekaterina Baker via Facebook"
+                }
+            ],
+            "short_url": "https://nyti.ms/3cPsFUL"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "Want a Completely Private Destination Wedding? Rent a Resort.",
+            "abstract": "With more couples looking to create a safer travel experience for their guests, hotels and resorts that offer buyout wedding options are seeing an increase in requests.",
+            "url": "https://www.nytimes.com/2021/06/17/style/want-a-completely-private-destination-wedding-rent-a-resort.html",
+            "uri": "nyt://article/ce86e438-1a74-5ffb-9af6-f3e26785830d",
+            "byline": "By Jenny Block",
+            "item_type": "Article",
+            "updated_date": "2021-06-17T19:10:48-04:00",
+            "created_date": "2021-06-17T10:35:21-04:00",
+            "published_date": "2021-06-17T10:35:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Travel and Vacations",
+                "Weddings and Engagements",
+                "Hotels and Travel Lodgings"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/27/fashion/00Resort-Takeover/00HomeTogetherNiecyNash-04-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alison Greer and Daniel Benesch, who is known as Doogie, had a buyout wedding, with 17 guests, on Nov. 7, 2020 at Dive Palm Springs, a hotel in Palm Springs, Calif.",
+                    "copyright": "Leah Van Otterloo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/27/fashion/00Resort-Takeover/00HomeTogetherNiecyNash-04-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alison Greer and Daniel Benesch, who is known as Doogie, had a buyout wedding, with 17 guests, on Nov. 7, 2020 at Dive Palm Springs, a hotel in Palm Springs, Calif.",
+                    "copyright": "Leah Van Otterloo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/27/fashion/00Resort-Takeover/00HomeTogetherNiecyNash-04-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alison Greer and Daniel Benesch, who is known as Doogie, had a buyout wedding, with 17 guests, on Nov. 7, 2020 at Dive Palm Springs, a hotel in Palm Springs, Calif.",
+                    "copyright": "Leah Van Otterloo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/27/fashion/00Resort-Takeover/00HomeTogetherNiecyNash-04-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alison Greer and Daniel Benesch, who is known as Doogie, had a buyout wedding, with 17 guests, on Nov. 7, 2020 at Dive Palm Springs, a hotel in Palm Springs, Calif.",
+                    "copyright": "Leah Van Otterloo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/27/fashion/00Resort-Takeover/00HomeTogetherNiecyNash-04-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alison Greer and Daniel Benesch, who is known as Doogie, had a buyout wedding, with 17 guests, on Nov. 7, 2020 at Dive Palm Springs, a hotel in Palm Springs, Calif.",
+                    "copyright": "Leah Van Otterloo"
+                }
+            ],
+            "short_url": "https://nyti.ms/3xz9yX7"
+        },
+        {
+            "section": "t-magazine",
+            "subsection": "",
+            "title": "The T List: Five Things We Recommend This Week",
+            "abstract": "An exhibition of work by Hurvin Anderson, silk scarves from Como — and more.",
+            "url": "https://www.nytimes.com/2021/06/17/t-magazine/hurvin-anderson-adam-selman.html",
+            "uri": "nyt://article/34c0b679-762b-5ec2-af18-37ed0f759729",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2021-06-17T09:00:11-04:00",
+            "created_date": "2021-06-17T09:00:11-04:00",
+            "published_date": "2021-06-17T09:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Art",
+                "Design",
+                "Books and Literature",
+                "Scarves",
+                "Fashion and Apparel",
+                "Bathing Suits and Swimwear"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Anderson, Hurvin",
+                "Selman, Adam D (1982- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/16/t-magazine/16tmag-newsletter-slide-YGK6/16tmag-newsletter-slide-YGK6-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1563,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Adam Selman’s Sandbar bikini top and Synchronized bikini bottom.",
+                    "copyright": "Adam Selman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/16/t-magazine/16tmag-newsletter-slide-YGK6/16tmag-newsletter-slide-YGK6-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Adam Selman’s Sandbar bikini top and Synchronized bikini bottom.",
+                    "copyright": "Adam Selman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/16/t-magazine/16tmag-newsletter-slide-YGK6/16tmag-newsletter-slide-YGK6-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Adam Selman’s Sandbar bikini top and Synchronized bikini bottom.",
+                    "copyright": "Adam Selman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/16/t-magazine/16tmag-newsletter-slide-YGK6/16tmag-newsletter-slide-YGK6-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Adam Selman’s Sandbar bikini top and Synchronized bikini bottom.",
+                    "copyright": "Adam Selman"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/16/t-magazine/16tmag-newsletter-slide-YGK6/16tmag-newsletter-slide-YGK6-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 145,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Adam Selman’s Sandbar bikini top and Synchronized bikini bottom.",
+                    "copyright": "Adam Selman"
+                }
+            ],
+            "short_url": "https://nyti.ms/3gCu0zu"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "House Hunting in Italy: Sitting Seaside on Sardinia for $760,000",
+            "abstract": "The pandemic has driven up prices in the coastal areas of northern Sardinia, where home buyers are now competing with investors.",
+            "url": "https://www.nytimes.com/2021/06/16/realestate/house-hunting-in-italy-sardinia.html",
+            "uri": "nyt://article/5fa3208b-a946-546d-a01b-8097d34d9014",
+            "byline": "By Lisa Prevost",
+            "item_type": "Article",
+            "updated_date": "2021-06-17T20:37:41-04:00",
+            "created_date": "2021-06-16T09:30:14-04:00",
+            "published_date": "2021-06-16T09:30:14-04:00",
+            "material_type_facet": "",
+            "kicker": "International real estate",
+            "des_facet": [
+                "Real Estate and Housing (Residential)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Sardinia (Italy)",
+                "Italy"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/16/realestate/16IHH-Sardinia-slide-4OV9/16IHH-Sardinia-slide-4OV9-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Italy Sotheby’s International Realty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/16/realestate/16IHH-Sardinia-slide-4OV9/16IHH-Sardinia-slide-4OV9-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Italy Sotheby’s International Realty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/16/realestate/16IHH-Sardinia-slide-4OV9/16IHH-Sardinia-slide-4OV9-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Italy Sotheby’s International Realty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/16/realestate/16IHH-Sardinia-slide-4OV9/16IHH-Sardinia-slide-4OV9-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Italy Sotheby’s International Realty"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/16/realestate/16IHH-Sardinia-slide-4OV9/16IHH-Sardinia-slide-4OV9-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Italy Sotheby’s International Realty"
+                }
+            ],
+            "short_url": "https://nyti.ms/3iLdnnD"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "The Promise of a Really Great Passport Photo",
+            "abstract": "Is such a thing even possible?",
+            "url": "https://www.nytimes.com/2021/06/16/style/rimowa-store-soho-passport-photo.html",
+            "uri": "nyt://article/3ce4970e-e0de-59c1-96f5-f75944de98ed",
+            "byline": "By Choire Sicha",
+            "item_type": "Article",
+            "updated_date": "2021-06-17T00:33:31-04:00",
+            "created_date": "2021-06-16T05:00:16-04:00",
+            "published_date": "2021-06-16T05:00:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Passports",
+                "Photography",
+                "Travel and Vacations",
+                "Content Type: Service",
+                "your-feed-fashion"
+            ],
+            "org_facet": [
+                "LVMH Moet Hennessy Louis Vuitton SA",
+                "Rimowa GmBH"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/fashion/16PASSPORTPIX-4/16PASSPORTPIX-4-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "You can take your photo over and over again as much as you want, and you really might want to!",
+                    "copyright": "Jeenah Moon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/fashion/16PASSPORTPIX-4/16PASSPORTPIX-4-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "You can take your photo over and over again as much as you want, and you really might want to!",
+                    "copyright": "Jeenah Moon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/fashion/16PASSPORTPIX-4/16PASSPORTPIX-4-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "You can take your photo over and over again as much as you want, and you really might want to!",
+                    "copyright": "Jeenah Moon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/fashion/16PASSPORTPIX-4/16PASSPORTPIX-4-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "You can take your photo over and over again as much as you want, and you really might want to!",
+                    "copyright": "Jeenah Moon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/fashion/16PASSPORTPIX-4/16PASSPORTPIX-4-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "You can take your photo over and over again as much as you want, and you really might want to!",
+                    "copyright": "Jeenah Moon for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2SvEVTC"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "Ride on: Disneyland in California reopens to out-of-state visitors.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/2021/06/15/travel/disneyland-california-reopening-covid.html",
+            "uri": "nyt://article/b2b6b411-095c-52a6-9c86-2703c3bbf565",
+            "byline": "By Tariro Mzezewa",
+            "item_type": "Article",
+            "updated_date": "2021-06-16T09:10:43-04:00",
+            "created_date": "2021-06-15T19:13:05-04:00",
+            "published_date": "2021-06-15T19:13:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus Reopenings",
+                "Amusement and Theme Parks",
+                "Travel and Vacations"
+            ],
+            "org_facet": [
+                "Disneyland (Anaheim, Calif)"
+            ],
+            "per_facet": [
+                "Newsom, Gavin"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/15/lens/15virus-briefing-disneyland1/merlin_189280866_d72117b5-d58c-4057-9e27-c93048d8359e-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Disneyland, when it partially reopened in April. Now, the park is fully reopened and fewer people are wearing masks.",
+                    "copyright": "Mario Anzuoni/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/15/lens/15virus-briefing-disneyland1/15virus-briefing-disneyland1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Disneyland, when it partially reopened in April. Now, the park is fully reopened and fewer people are wearing masks.",
+                    "copyright": "Mario Anzuoni/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/15/lens/15virus-briefing-disneyland1/15virus-briefing-disneyland1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Disneyland, when it partially reopened in April. Now, the park is fully reopened and fewer people are wearing masks.",
+                    "copyright": "Mario Anzuoni/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/15/lens/15virus-briefing-disneyland1/15virus-briefing-disneyland1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Disneyland, when it partially reopened in April. Now, the park is fully reopened and fewer people are wearing masks.",
+                    "copyright": "Mario Anzuoni/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/15/lens/15virus-briefing-disneyland1/merlin_189280866_d72117b5-d58c-4057-9e27-c93048d8359e-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Disneyland, when it partially reopened in April. Now, the park is fully reopened and fewer people are wearing masks.",
+                    "copyright": "Mario Anzuoni/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2SvPK8a"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "Welcome to Barn-Quilt Country",
+            "abstract": "Take a road trip in the Midwest to see a homegrown art form that creatively combines aspects of Americana.",
+            "url": "https://www.nytimes.com/2021/06/15/travel/wisconsin-barn-quilts.html",
+            "uri": "nyt://article/e94762b3-3de1-590e-bfd0-e477802ce705",
+            "byline": "By Jackie Snow",
+            "item_type": "Article",
+            "updated_date": "2021-06-15T07:19:33-04:00",
+            "created_date": "2021-06-15T05:02:53-04:00",
+            "published_date": "2021-06-15T05:02:53-04:00",
+            "material_type_facet": "",
+            "kicker": "On the road 2021",
+            "des_facet": [
+                "Quilts",
+                "Barns",
+                "Travel and Vacations",
+                "Art",
+                "Agriculture and Farming",
+                "Road Trips"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Bowling Green (Ky)",
+                "Iowa",
+                "Ohio",
+                "Wisconsin"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/20/travel/20barn-quilts/merlin_189019935_3a0cd78c-dcdd-442c-9f2b-8894ed2fbd4e-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1463,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Miyazaki for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/20/travel/20barn-quilts/merlin_189019935_3a0cd78c-dcdd-442c-9f2b-8894ed2fbd4e-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Miyazaki for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/20/travel/20barn-quilts/merlin_189019935_3a0cd78c-dcdd-442c-9f2b-8894ed2fbd4e-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Miyazaki for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/20/travel/20barn-quilts/merlin_189019935_3a0cd78c-dcdd-442c-9f2b-8894ed2fbd4e-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Miyazaki for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/20/travel/20barn-quilts/merlin_189019935_3a0cd78c-dcdd-442c-9f2b-8894ed2fbd4e-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 136,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Miyazaki for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3wqGEIr"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "What You Need to Know About Your Vaccine Card",
+            "abstract": "For now, the best way to show that you’ve been inoculated against the coronavirus is a simple card. Here, your key questions are answered.",
+            "url": "https://www.nytimes.com/article/vaccine-covid-card.html",
+            "uri": "nyt://article/25ab8e5d-099e-51c4-97d0-da6eeda02ca1",
+            "byline": "By Concepción de León",
+            "item_type": "Article",
+            "updated_date": "2021-06-15T17:17:56-04:00",
+            "created_date": "2021-06-15T05:00:17-04:00",
+            "published_date": "2021-06-15T05:00:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Vaccination Proof and Immunization Records",
+                "Quarantine (Life and Culture)",
+                "Content Type: Service",
+                "Coronavirus (2019-nCoV)",
+                "Airlines and Airplanes",
+                "Travel and Vacations",
+                "Cruises",
+                "Mobile Applications"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/03/31/travel/31vaccine-card1/31vaccine-card1-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A blank Covid-19 vaccination record card; a filled-in version has become many people’s prized possession.",
+                    "copyright": "Brett Coomer/Houston Chronicle, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/03/31/travel/31vaccine-card1/31vaccine-card1-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A blank Covid-19 vaccination record card; a filled-in version has become many people’s prized possession.",
+                    "copyright": "Brett Coomer/Houston Chronicle, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/03/31/travel/31vaccine-card1/31vaccine-card1-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A blank Covid-19 vaccination record card; a filled-in version has become many people’s prized possession.",
+                    "copyright": "Brett Coomer/Houston Chronicle, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/03/31/travel/31vaccine-card1/31vaccine-card1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A blank Covid-19 vaccination record card; a filled-in version has become many people’s prized possession.",
+                    "copyright": "Brett Coomer/Houston Chronicle, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/03/31/travel/31vaccine-card1/31vaccine-card1-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A blank Covid-19 vaccination record card; a filled-in version has become many people’s prized possession.",
+                    "copyright": "Brett Coomer/Houston Chronicle, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/35nHQk0"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "What Are the Roadblocks to a ‘Vaccine Passport’?",
+            "abstract": "Creating a digital certificate of vaccination against the coronavirus is one of the hottest debates right now. What’s keeping it from happening, and why are some people opposed?",
+            "url": "https://www.nytimes.com/article/vaccine-passport.html",
+            "uri": "nyt://article/0c7ac7dd-b2b3-5553-bdde-0a544042d281",
+            "byline": "By Ceylan Yeginsu",
+            "item_type": "Article",
+            "updated_date": "2021-06-15T07:14:20-04:00",
+            "created_date": "2021-06-14T19:00:07-04:00",
+            "published_date": "2021-06-14T19:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination Proof and Immunization Records",
+                "Quarantine (Life and Culture)",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Mobile Applications",
+                "States (US)",
+                "Privacy",
+                "Electronic Health Records",
+                "Travel and Vacations",
+                "Airlines and Airplanes",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention",
+                "European Commission"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/13/travel/13vaccinepassport-explainer/merlin_186095907_431b73e0-76b8-4651-8237-5d4c9add7364-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1441,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Heliix Health Passport is only one of many developers are working on as a way of sharing coronavirus vaccine and testing information quickly and securely. ",
+                    "copyright": "Ethan Miller/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/13/travel/13vaccinepassport-explainer/merlin_186095907_431b73e0-76b8-4651-8237-5d4c9add7364-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Heliix Health Passport is only one of many developers are working on as a way of sharing coronavirus vaccine and testing information quickly and securely. ",
+                    "copyright": "Ethan Miller/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/13/travel/13vaccinepassport-explainer/merlin_186095907_431b73e0-76b8-4651-8237-5d4c9add7364-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Heliix Health Passport is only one of many developers are working on as a way of sharing coronavirus vaccine and testing information quickly and securely. ",
+                    "copyright": "Ethan Miller/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/13/travel/13vaccinepassport-explainer/merlin_186095907_431b73e0-76b8-4651-8237-5d4c9add7364-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Heliix Health Passport is only one of many developers are working on as a way of sharing coronavirus vaccine and testing information quickly and securely. ",
+                    "copyright": "Ethan Miller/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/13/travel/13vaccinepassport-explainer/merlin_186095907_431b73e0-76b8-4651-8237-5d4c9add7364-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 134,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Heliix Health Passport is only one of many developers are working on as a way of sharing coronavirus vaccine and testing information quickly and securely. ",
+                    "copyright": "Ethan Miller/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3gkKxJk"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "What to Know About the C.D.C. Guidelines on Vaccinated Travel",
+            "abstract": "In updated recommendations, the federal health agency said both domestic and international travel was low risk for fully vaccinated Americans. But travel remains far from simple.",
+            "url": "https://www.nytimes.com/article/cdc-travel-guidelines.html",
+            "uri": "nyt://article/4af12fe2-91ce-5adf-a858-7b38611f7ee0",
+            "byline": "By Ceylan Yeginsu",
+            "item_type": "Article",
+            "updated_date": "2021-06-18T07:09:09-04:00",
+            "created_date": "2021-06-14T16:00:06-04:00",
+            "published_date": "2021-06-14T16:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Travel Warnings",
+                "Travel and Vacations",
+                "Quarantine (Life and Culture)",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Content Type: Service",
+                "Quarantines",
+                "Vaccination Proof and Immunization Records"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/02/travel/02cdc-travel-explainer/merlin_183469002_0832448f-4fd7-4e87-9eee-4d865ad1a0c7-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Travelers walked through Tampa International Airport in February.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/02/travel/02cdc-travel-explainer/02cdc-travel-explainer-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Travelers walked through Tampa International Airport in February.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/02/travel/02cdc-travel-explainer/02cdc-travel-explainer-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Travelers walked through Tampa International Airport in February.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/02/travel/02cdc-travel-explainer/02cdc-travel-explainer-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Travelers walked through Tampa International Airport in February.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/04/02/travel/02cdc-travel-explainer/02cdc-travel-explainer-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Travelers walked through Tampa International Airport in February.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3wqPBBo"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "Exploring Greece’s Unseen Corners",
+            "abstract": "For several years, a photographer has documented local Greek customs and attire, turning his lens toward his country’s vibrant traditional culture.",
+            "url": "https://www.nytimes.com/2021/06/14/travel/greece-traditions.html",
+            "uri": "nyt://article/b9775d82-3ddc-56da-9ea0-1574a4727bfc",
+            "byline": "By George Tatakis",
+            "item_type": "Article",
+            "updated_date": "2021-06-15T09:43:51-04:00",
+            "created_date": "2021-06-14T05:00:19-04:00",
+            "published_date": "2021-06-14T05:00:19-04:00",
+            "material_type_facet": "",
+            "kicker": "The World Through a Lens",
+            "des_facet": [
+                "Travel and Vacations",
+                "Fashion and Apparel",
+                "Photography"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Greece"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/14/travel/14travel-greece-promo-1/merlin_185086251_d1da0ca0-f5ed-4886-9606-8702e6ca1d93-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Traditional attire in the hilltop city of Vathia.",
+                    "copyright": "George Tatakis/INSTITUTE"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/14/travel/14travel-greece-promo-1/merlin_185086251_d1da0ca0-f5ed-4886-9606-8702e6ca1d93-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Traditional attire in the hilltop city of Vathia.",
+                    "copyright": "George Tatakis/INSTITUTE"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/14/travel/14travel-greece-promo-1/merlin_185086251_d1da0ca0-f5ed-4886-9606-8702e6ca1d93-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Traditional attire in the hilltop city of Vathia.",
+                    "copyright": "George Tatakis/INSTITUTE"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/14/travel/14travel-greece-promo-1/merlin_185086251_d1da0ca0-f5ed-4886-9606-8702e6ca1d93-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Traditional attire in the hilltop city of Vathia.",
+                    "copyright": "George Tatakis/INSTITUTE"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/14/travel/14travel-greece-promo-1/merlin_185086251_d1da0ca0-f5ed-4886-9606-8702e6ca1d93-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Traditional attire in the hilltop city of Vathia.",
+                    "copyright": "George Tatakis/INSTITUTE"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Maine Residents Fend Off Poisonous Caterpillars",
+            "abstract": "The caterpillars, known as browntail moths, have tiny hairs that can cause skin rashes and even breathing issues for some people.",
+            "url": "https://www.nytimes.com/2021/06/13/us/maine-browntail-moth-caterpillar.html",
+            "uri": "nyt://article/d65dced3-3c1b-52ce-b1c1-d9dee92701cf",
+            "byline": "By Jesus Jiménez",
+            "item_type": "Article",
+            "updated_date": "2021-06-14T00:33:25-04:00",
+            "created_date": "2021-06-13T14:09:05-04:00",
+            "published_date": "2021-06-13T14:09:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Caterpillars",
+                "Butterflies and Moths",
+                "Invasive Species",
+                "Poisoning and Poisons"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Cape Cod (Mass)",
+                "Maine",
+                "Waterville (Me)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/14/world/14--xp-caterpillar-PRINT/13xp-caterpillars-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1536,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Browntail moths are most common along Maine&rsquo;s coastline and Cape Cod but they&rsquo;ve been spotted this year in all of Maine&rsquo;s 16 counties.",
+                    "copyright": "Maine Forest Service, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/14/world/14--xp-caterpillar-PRINT/13xp-caterpillars-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Browntail moths are most common along Maine&rsquo;s coastline and Cape Cod but they&rsquo;ve been spotted this year in all of Maine&rsquo;s 16 counties.",
+                    "copyright": "Maine Forest Service, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/14/world/14--xp-caterpillar-PRINT/13xp-caterpillars-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Browntail moths are most common along Maine&rsquo;s coastline and Cape Cod but they&rsquo;ve been spotted this year in all of Maine&rsquo;s 16 counties.",
+                    "copyright": "Maine Forest Service, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/14/world/14--xp-caterpillar-PRINT/13xp-caterpillars-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Browntail moths are most common along Maine&rsquo;s coastline and Cape Cod but they&rsquo;ve been spotted this year in all of Maine&rsquo;s 16 counties.",
+                    "copyright": "Maine Forest Service, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/14/world/14--xp-caterpillar-PRINT/13xp-caterpillars-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 253,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Browntail moths are most common along Maine&rsquo;s coastline and Cape Cod but they&rsquo;ve been spotted this year in all of Maine&rsquo;s 16 counties.",
+                    "copyright": "Maine Forest Service, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2TpbT83"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Off-Duty Flight Attendant Is Detained After an In-Flight Struggle, Delta Says",
+            "abstract": "Video from the flight showed a violent confrontation involving several people wrestling a man to the floor as someone said: “Get him down. Keep him down.”",
+            "url": "https://www.nytimes.com/2021/06/12/us/delta-flight-diverted-oklahoma-city-fbi.html",
+            "uri": "nyt://article/4a179a3d-41c8-5378-bab4-8850f7c09212",
+            "byline": "By Michael Levenson",
+            "item_type": "Article",
+            "updated_date": "2021-06-13T08:57:21-04:00",
+            "created_date": "2021-06-12T18:34:33-04:00",
+            "published_date": "2021-06-12T18:34:33-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Airlines and Airplanes",
+                "Assaults",
+                "Flight Attendants"
+            ],
+            "org_facet": [
+                "Delta Air Lines Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Oklahoma City (Okla)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/us/12xp-flights/merlin_186714744_24f82b5c-7ce5-46ab-970a-764322b037dd-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The captain of a Delta Air Lines flight on Friday came on the public address system and asked “all able-bodied men” to come to the front of the plane for an “emergency,” a passenger said.",
+                    "copyright": "Wilfredo Lee/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/us/12xp-flights/merlin_186714744_24f82b5c-7ce5-46ab-970a-764322b037dd-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The captain of a Delta Air Lines flight on Friday came on the public address system and asked “all able-bodied men” to come to the front of the plane for an “emergency,” a passenger said.",
+                    "copyright": "Wilfredo Lee/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/us/12xp-flights/merlin_186714744_24f82b5c-7ce5-46ab-970a-764322b037dd-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The captain of a Delta Air Lines flight on Friday came on the public address system and asked “all able-bodied men” to come to the front of the plane for an “emergency,” a passenger said.",
+                    "copyright": "Wilfredo Lee/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/us/12xp-flights/merlin_186714744_24f82b5c-7ce5-46ab-970a-764322b037dd-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The captain of a Delta Air Lines flight on Friday came on the public address system and asked “all able-bodied men” to come to the front of the plane for an “emergency,” a passenger said.",
+                    "copyright": "Wilfredo Lee/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/us/12xp-flights/merlin_186714744_24f82b5c-7ce5-46ab-970a-764322b037dd-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The captain of a Delta Air Lines flight on Friday came on the public address system and asked “all able-bodied men” to come to the front of the plane for an “emergency,” a passenger said.",
+                    "copyright": "Wilfredo Lee/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3viOsdO"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "What to Know About Testing and Vaccine Requirements for Travel",
+            "abstract": "Do you need to be vaccinated or have a negative Covid-19 test for your next trip? Check this guide before traveling domestically or abroad.",
+            "url": "https://www.nytimes.com/article/travel-testing-vaccine-requirements.html",
+            "uri": "nyt://article/980d2d6f-3274-55ca-9c26-9e3d5d7da88a",
+            "byline": "By Concepción de León",
+            "item_type": "Article",
+            "updated_date": "2021-06-18T08:27:22-04:00",
+            "created_date": "2021-06-11T19:35:15-04:00",
+            "published_date": "2021-06-11T19:35:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Content Type: Service",
+                "Travel and Vacations",
+                "Coronavirus Risks and Safety Concerns",
+                "Tests (Medical)",
+                "Vaccination and Immunization",
+                "Quarantines",
+                "Airlines and Airplanes"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11vaccinetravel/merlin_188444811_453febdf-b933-4a6d-ad9f-306f6948e574-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Travelers walk through John F. Kennedy Airport ahead of Memorial Day weekend on May 28.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11vaccinetravel/11vaccinetravel-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Travelers walk through John F. Kennedy Airport ahead of Memorial Day weekend on May 28.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11vaccinetravel/11vaccinetravel-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Travelers walk through John F. Kennedy Airport ahead of Memorial Day weekend on May 28.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11vaccinetravel/11vaccinetravel-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Travelers walk through John F. Kennedy Airport ahead of Memorial Day weekend on May 28.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11vaccinetravel/merlin_188444811_453febdf-b933-4a6d-ad9f-306f6948e574-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Travelers walk through John F. Kennedy Airport ahead of Memorial Day weekend on May 28.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3cAKRkY"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "Ready to See the World? Expect Some Whiplash.",
+            "abstract": "I’ve visited eight countries over the past nine weeks. It’s been a dizzying and confusing experience.",
+            "url": "https://www.nytimes.com/interactive/2021/06/11/travel/international-travel.html",
+            "uri": "nyt://interactive/68af85e6-c98d-5d09-9229-d8972a7a8d91",
+            "byline": "By Ceylan Yeginsu",
+            "item_type": "Interactive",
+            "updated_date": "2021-06-11T12:05:34-04:00",
+            "created_date": "2021-06-11T12:05:34-04:00",
+            "published_date": "2021-06-11T12:05:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Quarantine (Life and Culture)",
+                "Vaccination and Immunization",
+                "Travel and Vacations",
+                "Whiplash"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Caribbean Area",
+                "Istanbul (Turkey)",
+                "London (England)",
+                "North America",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11travel-whiplash-1/11travel-whiplash-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11travel-whiplash-1/11travel-whiplash-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11travel-whiplash-1/11travel-whiplash-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11travel-whiplash-1/11travel-whiplash-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11travel-whiplash-1/11travel-whiplash-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/35b0X0v"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "Consider the $34 Lobster Roll",
+            "abstract": "The pandemic has exacerbated a price spike in the iconic New England summer sandwich.",
+            "url": "https://www.nytimes.com/2021/06/11/style/lobster-roll-spike.html",
+            "uri": "nyt://article/3bf3af56-7c6f-52be-9d45-4df281c1cee1",
+            "byline": "By Steven Kurutz",
+            "item_type": "Article",
+            "updated_date": "2021-06-17T10:30:19-04:00",
+            "created_date": "2021-06-11T05:00:32-04:00",
+            "published_date": "2021-06-11T05:00:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Lobsters",
+                "Seafood",
+                "Summer (Season)",
+                "Restaurants",
+                "Prices (Fares, Fees and Rates)",
+                "Travel and Vacations",
+                "Fishing, Commercial"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/fashion/11Lobster-roll/merlin_188982879_226716ea-f66d-4d24-ab6a-8b893fab9f09-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1367,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A lobster roll piled high at Red’s Eats in Wiscasset, Maine. The motto at Red’s is “We don’t measure… we pile it high.”",
+                    "copyright": "Ryan David Brown for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/fashion/11Lobster-roll/11Lobster-roll-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A lobster roll piled high at Red’s Eats in Wiscasset, Maine. The motto at Red’s is “We don’t measure… we pile it high.”",
+                    "copyright": "Ryan David Brown for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/fashion/11Lobster-roll/11Lobster-roll-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A lobster roll piled high at Red’s Eats in Wiscasset, Maine. The motto at Red’s is “We don’t measure… we pile it high.”",
+                    "copyright": "Ryan David Brown for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/fashion/11Lobster-roll/11Lobster-roll-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A lobster roll piled high at Red’s Eats in Wiscasset, Maine. The motto at Red’s is “We don’t measure… we pile it high.”",
+                    "copyright": "Ryan David Brown for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/17/fashion/11Lobster-roll/merlin_188982879_226716ea-f66d-4d24-ab6a-8b893fab9f09-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 285,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A lobster roll piled high at Red’s Eats in Wiscasset, Maine. The motto at Red’s is “We don’t measure… we pile it high.”",
+                    "copyright": "Ryan David Brown for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3pIpkMl"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "Want to Go to Hawaii? Be Prepared.",
+            "abstract": "Interest in visiting the islands is running high, but the price of paradise can be multiple Covid tests, expensive stints in quarantine, long waits in line and more.",
+            "url": "https://www.nytimes.com/2021/06/11/travel/covid-hawaii-travel.html",
+            "uri": "nyt://article/c192bb41-9c3f-5518-980b-502f0c86c293",
+            "byline": "By Tariro Mzezewa",
+            "item_type": "Article",
+            "updated_date": "2021-06-16T06:25:08-04:00",
+            "created_date": "2021-06-11T05:00:32-04:00",
+            "published_date": "2021-06-11T05:00:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Travel and Vacations",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Quarantines",
+                "Tests (Medical)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Hawaii",
+                "Kauai (Hawaii)",
+                "Oahu (Hawaii)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/09/travel/00hawaii1/merlin_184957629_5a369538-86d2-44e8-aa3c-14396b5c5b8e-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The experience that makes jumping through the hoops worth it: A beach in Waimanalo on Oahu.",
+                    "copyright": "Michelle Mishina Kunz for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/09/travel/00hawaii1/00hawaii1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The experience that makes jumping through the hoops worth it: A beach in Waimanalo on Oahu.",
+                    "copyright": "Michelle Mishina Kunz for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/09/travel/00hawaii1/00hawaii1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The experience that makes jumping through the hoops worth it: A beach in Waimanalo on Oahu.",
+                    "copyright": "Michelle Mishina Kunz for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/09/travel/00hawaii1/merlin_184957629_5a369538-86d2-44e8-aa3c-14396b5c5b8e-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The experience that makes jumping through the hoops worth it: A beach in Waimanalo on Oahu.",
+                    "copyright": "Michelle Mishina Kunz for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/09/travel/00hawaii1/merlin_184957629_5a369538-86d2-44e8-aa3c-14396b5c5b8e-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The experience that makes jumping through the hoops worth it: A beach in Waimanalo on Oahu.",
+                    "copyright": "Michelle Mishina Kunz for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2RIPbau"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "A cruise ship required all aboard to be vaccinated. Then two passengers tested positive for the virus.",
+            "abstract": "As large gatherings resume in the U.S., infections on a cruise ship and at a Bitcoin conference show the challenges of reopening.",
+            "url": "https://www.nytimes.com/2021/06/10/travel/covid-cruise-ship.html",
+            "uri": "nyt://article/a916c967-9ece-56b0-b0a7-6220b9e9ea6e",
+            "byline": "By Remy Tumin and Erin Griffith",
+            "item_type": "Article",
+            "updated_date": "2021-06-11T15:44:25-04:00",
+            "created_date": "2021-06-10T22:33:01-04:00",
+            "published_date": "2021-06-10T22:33:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "internal-essential",
+                "Cruises",
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "Royal Caribbean Cruises Ltd"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/10/lens/10virus-briefing-cruiselines-conferences1/merlin_188878509_a0a567a0-881e-4728-aced-5d5ed8a1be25-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1404,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Celebrity Millennium, left, docked on the island of St. Maarten, last week.",
+                    "copyright": "Jean Vallette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/10/lens/10virus-briefing-cruiselines-conferences1/10virus-briefing-cruiselines-conferences1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Celebrity Millennium, left, docked on the island of St. Maarten, last week.",
+                    "copyright": "Jean Vallette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/10/lens/10virus-briefing-cruiselines-conferences1/10virus-briefing-cruiselines-conferences1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Celebrity Millennium, left, docked on the island of St. Maarten, last week.",
+                    "copyright": "Jean Vallette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/10/lens/10virus-briefing-cruiselines-conferences1/10virus-briefing-cruiselines-conferences1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Celebrity Millennium, left, docked on the island of St. Maarten, last week.",
+                    "copyright": "Jean Vallette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/10/lens/10virus-briefing-cruiselines-conferences1/merlin_188878509_a0a567a0-881e-4728-aced-5d5ed8a1be25-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 130,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Celebrity Millennium, left, docked on the island of St. Maarten, last week.",
+                    "copyright": "Jean Vallette for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2SqJdvh"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "The Ship Finally Sailed",
+            "abstract": "A reporter took the first cruise from a North American port since the pandemic began. Here’s what she learned about how Covid has changed cruising.",
+            "url": "https://www.nytimes.com/2021/06/10/travel/royal-caribbean-cruise-pandemic.html",
+            "uri": "nyt://article/1eab8bc1-46b2-5850-980b-0bed43c1b805",
+            "byline": "By Ceylan Yeginsu",
+            "item_type": "Article",
+            "updated_date": "2021-06-13T14:07:31-04:00",
+            "created_date": "2021-06-10T17:22:51-04:00",
+            "published_date": "2021-06-10T17:22:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cruises",
+                "Travel and Vacations",
+                "Coronavirus (2019-nCoV)",
+                "Content Type: Service"
+            ],
+            "org_facet": [
+                "Celebrity Cruises Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Caribbean Area"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11first-cruise2/11first-cruise2-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Celebrity Millennium, left, docked in St. Maarten. It sailed with about a third of the usual number of passengers, all of them vaccinated.",
+                    "copyright": "Jean Vallette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11first-cruise2/11first-cruise2-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Celebrity Millennium, left, docked in St. Maarten. It sailed with about a third of the usual number of passengers, all of them vaccinated.",
+                    "copyright": "Jean Vallette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11first-cruise2/11first-cruise2-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Celebrity Millennium, left, docked in St. Maarten. It sailed with about a third of the usual number of passengers, all of them vaccinated.",
+                    "copyright": "Jean Vallette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11first-cruise2/11first-cruise2-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Celebrity Millennium, left, docked in St. Maarten. It sailed with about a third of the usual number of passengers, all of them vaccinated.",
+                    "copyright": "Jean Vallette for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/11/travel/11first-cruise2/11first-cruise2-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Celebrity Millennium, left, docked in St. Maarten. It sailed with about a third of the usual number of passengers, all of them vaccinated.",
+                    "copyright": "Jean Vallette for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3g9npgG"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Something Weird on the Beach Was Staining Their Feet. But What?",
+            "abstract": "Dozens of people in Maine and New Hampshire complained that the sand had turned the soles of their feet black. Now the mystery is solved.",
+            "url": "https://www.nytimes.com/2021/06/10/us/black-feet-maine-beaches.html",
+            "uri": "nyt://article/95d003d9-5725-597a-b1d0-d7fb600cd9e0",
+            "byline": "By Heather Murphy",
+            "item_type": "Article",
+            "updated_date": "2021-06-11T14:47:36-04:00",
+            "created_date": "2021-06-10T11:53:18-04:00",
+            "published_date": "2021-06-10T11:53:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Beaches",
+                "Flies",
+                "Wildlife Die-Offs"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Maine",
+                "New Hampshire"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/10/multimedia/10xp-maine-04/10xp-maine-04-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1024,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Even after she scrubbed it with soap, Jenny Greenleaf’s foot remained stained.",
+                    "copyright": "Jenny Greenleaf"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/10/multimedia/10xp-maine-04/10xp-maine-04-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Even after she scrubbed it with soap, Jenny Greenleaf’s foot remained stained.",
+                    "copyright": "Jenny Greenleaf"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/10/multimedia/10xp-maine-04/10xp-maine-04-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Even after she scrubbed it with soap, Jenny Greenleaf’s foot remained stained.",
+                    "copyright": "Jenny Greenleaf"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/10/multimedia/10xp-maine-04/10xp-maine-04-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Even after she scrubbed it with soap, Jenny Greenleaf’s foot remained stained.",
+                    "copyright": "Jenny Greenleaf"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/10/multimedia/10xp-maine-04/10xp-maine-04-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 380,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Even after she scrubbed it with soap, Jenny Greenleaf’s foot remained stained.",
+                    "copyright": "Jenny Greenleaf"
+                }
+            ],
+            "short_url": "https://nyti.ms/3cuvsCM"
+        },
+        {
+            "section": "t-magazine",
+            "subsection": "",
+            "title": "The T List: Five Things We Recommend This Week",
+            "abstract": "A group show curated by Gary Simmons, a bakery opens at the Ritz Paris — and more.",
+            "url": "https://www.nytimes.com/2021/06/10/t-magazine/ritz-paris-gary-simmons.html",
+            "uri": "nyt://article/602d3110-2ddd-5ae4-9a0d-11c7f065299c",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2021-06-10T09:00:11-04:00",
+            "created_date": "2021-06-10T09:00:11-04:00",
+            "published_date": "2021-06-10T09:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Art",
+                "Sculpture",
+                "Shoes and Boots",
+                "Jewels and Jewelry"
+            ],
+            "org_facet": [
+                "Hotel Ritz Paris"
+            ],
+            "per_facet": [
+                "Simmons, Gary"
+            ],
+            "geo_facet": [
+                "Paris (France)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/09/t-magazine/09tmag-newsletter-slide-YZ37/09tmag-newsletter-slide-YZ37-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Left: Le Comptoir, the new pastry shop at the Ritz Paris, with confections by chef François Perret. Right: a selection of glazed and filled madeleines, the chef’s signature pastry.",
+                    "copyright": "Bernhard Winkelmann"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/09/t-magazine/09tmag-newsletter-slide-YZ37/09tmag-newsletter-slide-YZ37-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Left: Le Comptoir, the new pastry shop at the Ritz Paris, with confections by chef François Perret. Right: a selection of glazed and filled madeleines, the chef’s signature pastry.",
+                    "copyright": "Bernhard Winkelmann"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/09/t-magazine/09tmag-newsletter-slide-YZ37/09tmag-newsletter-slide-YZ37-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Left: Le Comptoir, the new pastry shop at the Ritz Paris, with confections by chef François Perret. Right: a selection of glazed and filled madeleines, the chef’s signature pastry.",
+                    "copyright": "Bernhard Winkelmann"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/09/t-magazine/09tmag-newsletter-slide-YZ37/09tmag-newsletter-slide-YZ37-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Left: Le Comptoir, the new pastry shop at the Ritz Paris, with confections by chef François Perret. Right: a selection of glazed and filled madeleines, the chef’s signature pastry.",
+                    "copyright": "Bernhard Winkelmann"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/09/t-magazine/09tmag-newsletter-slide-YZ37/09tmag-newsletter-slide-YZ37-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Left: Le Comptoir, the new pastry shop at the Ritz Paris, with confections by chef François Perret. Right: a selection of glazed and filled madeleines, the chef’s signature pastry.",
+                    "copyright": "Bernhard Winkelmann"
+                }
+            ],
+            "short_url": "https://nyti.ms/3waWiY9"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "Confused? Overwhelmed? You May Have Travel Whiplash.",
+            "abstract": "Going from one place to another right now can mean being jolted by conflicting sets of rules and regulations, depending on the state of the pandemic at your destination. It can be a dizzying experience.",
+            "url": "https://www.nytimes.com/2021/06/10/travel/international-travel-whiplash.html",
+            "uri": "nyt://article/c9241b40-aabf-51e0-8b76-d1eed7dd31c1",
+            "byline": "By Ceylan Yeginsu",
+            "item_type": "Article",
+            "updated_date": "2021-06-15T01:21:08-04:00",
+            "created_date": "2021-06-10T05:00:13-04:00",
+            "published_date": "2021-06-10T05:00:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Quarantine (Life and Culture)",
+                "Coronavirus Risks and Safety Concerns",
+                "Travel and Vacations",
+                "Airlines and Airplanes"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/15/travel/10Whiplash-illo2/10Whiplash-illo2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1500,
+                    "width": 1500,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Downey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/15/travel/10Whiplash-illo2/10Whiplash-illo2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Downey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/15/travel/10Whiplash-illo2/10Whiplash-illo2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Downey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/15/travel/10Whiplash-illo2/10Whiplash-illo2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Downey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/15/travel/10Whiplash-illo2/10Whiplash-illo2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 190,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Downey"
+                }
+            ],
+            "short_url": "https://nyti.ms/356Nsz2"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "Where Sun, Sand and Splendor Are Still to Be Discovered",
+            "abstract": "From lakefronts in Idaho to little-known nooks of the Caribbean to the shores of the Baltic Sea, new resort communities continue to emerge.",
+            "url": "https://www.nytimes.com/2021/06/09/realestate/resort-communities-caribbean-mexico-latvia-idaho.html",
+            "uri": "nyt://article/6871a5e1-247c-5d67-aa5c-b299b6677bb5",
+            "byline": "By Shivani Vora",
+            "item_type": "Article",
+            "updated_date": "2021-06-15T15:19:42-04:00",
+            "created_date": "2021-06-09T05:02:49-04:00",
+            "published_date": "2021-06-09T05:02:49-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Second Homes and Non-Primary Residences",
+                "Real Estate and Housing (Residential)",
+                "Coastal Areas",
+                "Beaches",
+                "Travel and Vacations"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Antigua and Barbuda",
+                "Bahama Islands",
+                "Costalegre (Mexico)",
+                "Jurmala (Latvia)",
+                "Exumas (Bahamas)",
+                "Coeur d'Alene (Idaho)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-emerging-inyt1/merlin_188300376_c45e41c2-756a-4111-b2ac-cc89c6424577-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "English Harbour in Antigua, one of the island&rsquo;s many beaches.",
+                    "copyright": "Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-emerging-inyt1/12sp-waterfront-emerging-inyt1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "English Harbour in Antigua, one of the island&rsquo;s many beaches.",
+                    "copyright": "Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-emerging-inyt1/12sp-waterfront-emerging-inyt1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "English Harbour in Antigua, one of the island&rsquo;s many beaches.",
+                    "copyright": "Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-emerging-inyt1/merlin_188300376_c45e41c2-756a-4111-b2ac-cc89c6424577-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "English Harbour in Antigua, one of the island&rsquo;s many beaches.",
+                    "copyright": "Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-emerging-inyt1/merlin_188300376_c45e41c2-756a-4111-b2ac-cc89c6424577-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "English Harbour in Antigua, one of the island&rsquo;s many beaches.",
+                    "copyright": "Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3cw3NkC"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "A Tiny Spanish Island Where Pirates Once Roamed",
+            "abstract": "There is no place to shop on Nueva Tabarca, scant cellphone reception and unreliable internet. To some, that is part of its appeal.",
+            "url": "https://www.nytimes.com/2021/06/09/realestate/spanish-island-pirates-nueva-tabarca.html",
+            "uri": "nyt://article/1608beb8-0b7a-5f9a-a105-f963db865967",
+            "byline": "By Rachel Chaundler",
+            "item_type": "Article",
+            "updated_date": "2021-06-15T15:19:24-04:00",
+            "created_date": "2021-06-09T05:02:47-04:00",
+            "published_date": "2021-06-09T05:02:47-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Travel and Vacations"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Nueva Tabarca (Spain)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-island-inyt1/12sp-waterfront-island-inyt1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1495,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nueva Tabarca is one of the smallest inhabited islands in the Mediterranean and still a relative bargain.",
+                    "copyright": "Samuel Aranda for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-island-inyt1/12sp-waterfront-island-inyt1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nueva Tabarca is one of the smallest inhabited islands in the Mediterranean and still a relative bargain.",
+                    "copyright": "Samuel Aranda for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-island-inyt1/12sp-waterfront-island-inyt1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nueva Tabarca is one of the smallest inhabited islands in the Mediterranean and still a relative bargain.",
+                    "copyright": "Samuel Aranda for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-island-inyt1/12sp-waterfront-island-inyt1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nueva Tabarca is one of the smallest inhabited islands in the Mediterranean and still a relative bargain.",
+                    "copyright": "Samuel Aranda for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-island-inyt1/12sp-waterfront-island-inyt1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 139,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nueva Tabarca is one of the smallest inhabited islands in the Mediterranean and still a relative bargain.",
+                    "copyright": "Samuel Aranda for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/350tF44"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "Why the Charms of the Uruguayan Coast Are Drawing Homeowners",
+            "abstract": "In and around the town of José Ignacio, a series of upscale (yet fittingly understated) waterfront developments are underway.",
+            "url": "https://www.nytimes.com/2021/06/09/realestate/uruguay-waterfront-homes-jose-ignacio.html",
+            "uri": "nyt://article/d6f905f4-2a05-5a3b-9c95-3bd4429780f2",
+            "byline": "By Paola Singer",
+            "item_type": "Article",
+            "updated_date": "2021-06-15T15:19:05-04:00",
+            "created_date": "2021-06-09T05:02:47-04:00",
+            "published_date": "2021-06-09T05:02:47-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Coastal Areas"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Uruguay",
+                "Jose Ignacio (Uruguay)",
+                "Punta del Este (Uruguay)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-uruguay-inyt3/12sp-waterfront-uruguay-inyt3-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 664,
+                    "width": 996,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Colette, a waterfront condominium with a minimalist concrete-and-glass aesthetic, in Manantiales, outside of José Ignacio. ",
+                    "copyright": "Colette"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-uruguay-inyt3/12sp-waterfront-uruguay-inyt3-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Colette, a waterfront condominium with a minimalist concrete-and-glass aesthetic, in Manantiales, outside of José Ignacio. ",
+                    "copyright": "Colette"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-uruguay-inyt3/12sp-waterfront-uruguay-inyt3-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Colette, a waterfront condominium with a minimalist concrete-and-glass aesthetic, in Manantiales, outside of José Ignacio. ",
+                    "copyright": "Colette"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-uruguay-inyt3/12sp-waterfront-uruguay-inyt3-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Colette, a waterfront condominium with a minimalist concrete-and-glass aesthetic, in Manantiales, outside of José Ignacio. ",
+                    "copyright": "Colette"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/06/12/multimedia/12sp-waterfront-uruguay-inyt3/12sp-waterfront-uruguay-inyt3-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Colette, a waterfront condominium with a minimalist concrete-and-glass aesthetic, in Manantiales, outside of José Ignacio. ",
+                    "copyright": "Colette"
+                }
+            ],
+            "short_url": "https://nyti.ms/3pyNo4p"
+        }
+    ]
+}
